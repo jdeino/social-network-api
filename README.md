@@ -4,7 +4,6 @@
   - [Description](#description)
   - [Usage](#usage)
   - [License](#license)
-  - [Teast](#test)
   - [Questions](#questions)
 
 ## Description
